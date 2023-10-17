@@ -60,7 +60,7 @@ public class Pilha{
     public static void EX2(){
     String expressao = "([]{})";
             Stack<Character> pilha = new Stack<Character>();
-
+            
             int i; 
             char c;
             boolean erro;
